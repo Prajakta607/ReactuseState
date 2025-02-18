@@ -42,7 +42,7 @@ export default function Counter(){
         <div>
           <h1>Counter value: {counter}</h1>
 
-          <button onClick={addvalue}>Add value</button><br />
+          <button onClick={addvalue}>Add value</button><br /><br />
           <button onClick={removevalue}>Remove value</button>
           <h1>{msg}</h1>
         </div>
